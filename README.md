@@ -29,3 +29,11 @@ To explore this environment in **GitHub Codespaces**:
 3. Run the sanity check:
    ```bash
    pytest tests/test_basic.py
+
+## 📬 Contact & Collaboration
+- **Location:** Haar (Munich), Germany 🇩🇪
+- **Roles:** DS Test Engineer | AI QA Specialist | Python Dev | Test Manager
+- **Languages:** English (C1), Russian (native), German (B2)
+- **Location:** Haar (Munich), Germany 🇩🇪
+- **Professional:** [panserg](https://www.linkedin.com/in/panserg/)
+- **Email:** panserg@gmail.com
